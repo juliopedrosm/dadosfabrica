@@ -1,0 +1,6 @@
+1- Qual a sintaxe para importação de bibliotecas no python?
+Resposta: import <biblioteca> as <variavel>
+2- Qual biblioteca do Python permite a visualização de dados em gráficos simples?
+Resposta: Matplotlib, que permite a exibição de gráficos simples em 2D.
+3- Qual biblioteca do Python gera um DataFrame como sua abstração principal?
+Resposta: Pandas, que permite o recebimento e tratamento dos dados dentro de DataFrames
